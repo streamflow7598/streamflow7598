@@ -1,12 +1,14 @@
-# streamflow_portpolio
 # 🚀 끝까지 해결하려고 노력하는 개발자
+
+## 🦖 Let me introduce myself
+
+
+
 
 ### 🔗 Portfolio & Contact
 [![Notion](https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion)](https://www.notion.so/64837403268a8204b88501d9cabd252d?source=copy_link)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/streamflow7598)
 
-<br>
-<br>
 
 ### 🎓 Experience
 * **University** : 고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과 수료 및 졸업예정 (2017/03/12 ~ 현재) 
@@ -15,16 +17,19 @@
 * **Main Activities**: Learning embedded systems and microcontroller-based control <br>
   **주요 활동**: 임베디드 시스템 및 마이크로컨트롤러 제어 학습
 
-  <br>
+
 
 
 
 ---
 
 ## 🛠 Projects
-* **STM32** : STM32 기반 타이머 선풍기 및 서보 모터 활용, STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용, STM32F411 및 초음파 센서를 활용한 장애물 회피 자율주행 RC카
-* **BASYS3** : BASYS3 기반 횡단보도 신호등 시스템 구현
-* **** : 건강관리 수첩 어플
+* **STM32**
+  1. **[STM32 기반 타이머 선풍기 및 서보 모터 활용](https://github.com/streamflow7598/Auto_Fan.git)**
+  2. **[STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용](https://github.com/Appletea404/Project2_Elevator_WORK.git)**
+  3. **[STM32F411 및 초음파 센서를 활용한 장애물 회피 자율주행 RC카](https://github.com/streamflow7598/Rccar_Auto_Final.git)**
+* **BASYS3** : **[BASYS3 기반 횡단보도 신호등 시스템 구현]()**
+* **Kotlin+Java** : **[건강관리 수첩 어플]()**
 
 ---
 
