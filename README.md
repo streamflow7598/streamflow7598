@@ -25,11 +25,11 @@
 
 ## 🛠 Projects
 * **STM32**
-  1. **[STM32 기반 타이머 선풍기 및 서보 모터 활용](https://github.com/streamflow7598/Auto_Fan.git)**
-  2. **[STM32 기반 1~3층 엘리베이터 제어 및 스테퍼 모터 활용](https://github.com/Appletea404/Project2_Elevator_WORK.git)**
-  3. **[STM32F411 및 초음파 센서를 활용한 장애물 회피 자율주행 RC카](https://github.com/streamflow7598/Rccar_Auto_Final.git)**
-* **BASYS3** : **[BASYS3 기반 횡단보도 신호등 시스템 구현]()**
-* **Kotlin+Java** : **[건강관리 수첩 어플](https://github.com/streamflow7598/DiaryApp.git)**
+  1. **[STM32 기반 타이머 선풍기 및 서보 모터 활용](https://github.com/streamflow7598/Auto_Fan.git)** / [포트폴리오 링크](https://drive.google.com/drive/folders/1vdGZDyW4pBZ8B59liW5A-dAnwtmPPdrV?usp=drive_link)
+  2. **[STM32 기반 1~3층 엘리베이터 제어 및 엘리베이터 문 구현](https://github.com/Appletea404/Project2_Elevator_WORK.git)** / [포트폴리오 링크](https://drive.google.com/drive/folders/13TcI8NioDLNUjuzhj4fzRlfcvvQdeyKs?usp=drive_link)
+  3. **[STM32F411 및 초음파 센서를 활용한 자율주행 RC카](https://github.com/streamflow7598/Rccar_Auto_Final.git)** / [포트폴리오 링크](https://drive.google.com/drive/folders/1EVO9Gq342K6cXtRCPyEa33-g155PEMVW?usp=drive_link)
+* **BASYS3** : **[BASYS3 기반 횡단보도 신호등 시스템 구현]()** / [포트폴리오 링크](https://drive.google.com/drive/folders/1iU0EC8LoUREi1QeHlk65UCaS3hCtgDBf?usp=drive_link)
+* **Kotlin+Java** : **[건강관리 수첩 어플](https://github.com/streamflow7598/DiaryApp.git)** / [포트폴리오 링크](https://drive.google.com/drive/folders/1DzqbSBtTQLy4T1DssKLv3QqjVFGGSSAF?usp=drive_link)
 
 ---
 
